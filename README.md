@@ -1,1 +1,1 @@
-# GANs_SRGAN_ESRGAN_Super_Resolucao
+# Modelos Para Super Resolução de Imagens 
